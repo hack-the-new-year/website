@@ -5,7 +5,7 @@ function Footer () {
             <div className="container">
                 <a href="https://github.com/hack-the-new-year/website" className="click">Look behind the scenes!</a>
                 <div className="holder">
-                    <a href="team@hacknewyear.com" className="icon">
+                    <a href="mailto:team@hacknewyear.com" className="icon">
                         <FaRegEnvelope />
                     </a>
                     <a href="https://github.com/hack-the-new-year" className="icon">

@@ -112,10 +112,10 @@ export default class Index extends React.Component {
                             <div style={{display:"flex",flexDirection:"column",flex:1,textAlign:"center"}}>
                                     <h2>Saturday Jan 11</h2>
                                     <p><strong>9:00 AM</strong> Doors Open 🚪</p>
-                                    <p><strong>10:00 AM</strong> Opening Ceremoney & Icebreaker 📹</p>
+                                    <p><strong>10:00 AM</strong> Opening Ceremony & Icebreaker 📹</p>
                                     <p><strong>11:00 AM</strong> Hacking Begins 💻</p>
                                     <p><strong>1:00 PM</strong> Web Dev Workshop w/ Melody</p>
-                                    <p><strong>3:00 PM</strong> INTERalliance Worksop w/ Tyler</p>
+                                    <p><strong>3:00 PM</strong> INTERalliance Workshop w/ Tyler</p>
                                     <p><strong>5:00 PM</strong>GitKraken Workshop w/ Evan</p>
                                     <p><strong>6:30 PM</strong> Dinner 🌮</p>
                                     <p><strong>7:30 PM</strong> CTF Starts 👩‍💻</p>

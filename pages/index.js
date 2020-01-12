@@ -15,8 +15,8 @@ export default class Index extends React.Component {
                     <div className="overlay">foop</div>
                     <div className="content">
                         <div style={{marginBottom:"5vh"}}>
-                        <h1 className="title">Hack The New Year</h1>
-                        <h2 className="subtitle">Be The Future</h2>
+                        <h1 className="title">Hecc The New Year</h1>
+                        <h2 className="subtitle">Oop.</h2>
                         <p style={{fontSize:"1.5em",marginBottom:"10px"}}>January 11 - 12, 2020</p>
                         <a href="https://g.page/unionhallcincy?share" style={{ color:"white"}}>Union Hall, 1311 Vine Street, Cincinnati, Ohio</a>
                         </div>
